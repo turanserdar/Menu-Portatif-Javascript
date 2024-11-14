@@ -53,3 +53,7 @@ Submit a pull request.
 For any inquiries or feedback, please reach out:
 
 Email: turanserdar@outlook.com.tr
+
+## Preview
+Below is a preview of the interface:
+![MenuPortatif](https://github.com/user-attachments/assets/68e26383-7f58-4f50-a9cd-dfb92d69af34)
