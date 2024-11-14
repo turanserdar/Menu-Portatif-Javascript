@@ -24,7 +24,7 @@ Responsive Design: Adapts the layout to different screen sizes for a seamless ex
 Clone the repository:
 bash
 Copy Code
-git clone https://github.com/username/ecommerce-website.git
+git clone https://github.com/turanserdar/Menu-Portatif-Javascript.git
 Navigate to the project directory:
 bash
 Copy Code
